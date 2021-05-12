@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/ville/Desktop/Slutprojekt Programmering/Template/Template/Content/fire.jpg</SourceFile>
-  <SourceTime>2021-05-07T08:51:31.2484941+02:00</SourceTime>
-  <DestFile>C:/Users/ville/Desktop/Slutprojekt Programmering/Template/Template/Content/bin/Windows/fire.xnb</DestFile>
-  <DestTime>2021-05-07T08:52:03.1593729+02:00</DestTime>
+  <SourceFile>C:/Users/Elev/Downloads/Slutprojekt Programmering/Template/Template/Content/fire.jpg</SourceFile>
+  <SourceTime>2021-05-07T09:38:44+02:00</SourceTime>
+  <DestFile>C:/Users/Elev/Downloads/Slutprojekt Programmering/Template/Template/Content/bin/Windows/fire.xnb</DestFile>
+  <DestTime>2021-05-12T14:06:23.7183242+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

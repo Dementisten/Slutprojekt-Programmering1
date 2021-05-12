@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/ville/Desktop/Slutprojekt Programmering/Template/Template/Content/tie.png</SourceFile>
-  <SourceTime>2021-04-28T14:51:22+02:00</SourceTime>
-  <DestFile>C:/Users/ville/Desktop/Slutprojekt Programmering/Template/Template/Content/bin/Windows/tie.xnb</DestFile>
-  <DestTime>2021-05-07T08:52:03.3375344+02:00</DestTime>
+  <SourceFile>C:/Users/Elev/Downloads/Slutprojekt Programmering/Template/Template/Content/tie.png</SourceFile>
+  <SourceTime>2021-05-07T09:38:44+02:00</SourceTime>
+  <DestFile>C:/Users/Elev/Downloads/Slutprojekt Programmering/Template/Template/Content/bin/Windows/tie.xnb</DestFile>
+  <DestTime>2021-05-12T14:18:18.792482+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

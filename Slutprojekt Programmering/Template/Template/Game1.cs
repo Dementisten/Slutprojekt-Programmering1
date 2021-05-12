@@ -13,11 +13,14 @@ namespace Template
         bool play = true;
         bool explode = false;
 
+
+
         Texture2D player;
         Texture2D enemy;
         Texture2D explosion;
         Texture2D background;
         Texture2D bullet;
+
 
         Vector2 playerPos = new Vector2(100, 100);
         Vector2 enemyPos = new Vector2(1000, 500);
@@ -52,6 +55,7 @@ namespace Template
             enemy = this.Content.Load<Texture2D>("tie");
             explosion = this.Content.Load<Texture2D>("explosion");
             background = this.Content.Load<Texture2D>("space");
+
 
         }
 
@@ -125,6 +129,10 @@ namespace Template
                 playerPos.X = -100;
                 playerPos.Y = -100;
             }
+
+            //Score
+
+
         }
 
 
