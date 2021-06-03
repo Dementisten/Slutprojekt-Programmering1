@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/ville/Downloads/Slutprojekt-Programmering1-main (2)/Slutprojekt-Programmering1-main/Slutprojekt Programmering/Template/Template/Content/score.spritefont</SourceFile>
+  <SourceTime>2021-06-03T21:45:14.9645997+02:00</SourceTime>
+  <DestFile>C:/Users/ville/Downloads/Slutprojekt-Programmering1-main (2)/Slutprojekt-Programmering1-main/Slutprojekt Programmering/Template/Template/Content/bin/Windows/Content/score.xnb</DestFile>
+  <DestTime>2021-06-03T21:46:55.2902824+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

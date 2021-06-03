@@ -37,6 +37,13 @@
 /processorParam:TextureFormat=Color
 /build:fire.jpg
 
+#begin score.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:score.spritefont
+
 #begin space.jpg
 /importer:TextureImporter
 /processor:TextureProcessor
